@@ -1,0 +1,9 @@
+com\swpu\uchain\oauth2\model\UserDto.class
+com\swpu\uchain\oauth2\model\AuthenticationRequest.class
+com\swpu\uchain\oauth2\interceptor\SimpleAuthenticationInterceptor.class
+com\swpu\uchain\oauth2\service\AuthenticationService.class
+com\swpu\uchain\oauth2\controller\LoginController.class
+com\swpu\uchain\oauth2\service\Impl\AuthenticationServiceImpl.class
+com\swpu\uchain\oauth2\config\WebConfig.class
+com\swpu\uchain\oauth2\init\SpringApplicationInitializer.class
+com\swpu\uchain\oauth2\config\ApplicationConfig.class
